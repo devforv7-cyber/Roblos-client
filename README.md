@@ -18,3 +18,7 @@ python -m http.server 8000
 ```
 
 Then visit <http://localhost:8000>.
+The original cloudflare worker with all bindings and multiplayer/chat
+```Link
+https://roblos-client.antonyrozario2025.workers.dev/
+```
