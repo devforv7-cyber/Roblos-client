@@ -22,3 +22,5 @@ The original cloudflare worker with all bindings and multiplayer/chat
 ```Link
 https://roblos-client.antonyrozario2025.workers.dev/
 ```
+To protect bindings and keys, this version of Roblos is diffrent from the one hosted on cloudflare workers 
+its a older version with newer things mixed into it.
