@@ -18,9 +18,3 @@ python -m http.server 8000
 ```
 
 Then visit <http://localhost:8000>.
-
-## Publish
-Upload the files to a GitHub repository. You can enable GitHub Pages from the repository settings; no Worker bindings or secrets are required.
-
-## Scope
-This is the standalone classic-client HTML source recovered from project files available for this export. It is not a complete export of the current `roblos-client` Cloudflare Worker, embedded Studio/IDE routes, or Durable Object implementation.
